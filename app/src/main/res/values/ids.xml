@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_gallery" type="id" />
+    <item name="text_home" type="id" />
+    <item name="text_slideshow" type="id" />
+    <item name="main_join_now_btn" type="id" />
+    <item name="featured_recycler" type="id" />
+    <item name="most_viewed_recycler" type="id" />
+    <item name="categories_recycler" type="id" />
+    <item name="toolbar" type="id" />
+</resources>
